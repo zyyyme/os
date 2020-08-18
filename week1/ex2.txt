@@ -1,0 +1,3 @@
+10092  cd ~/week1
+10093  ls /usr/bin | grep gcc > ex1.txt
+10094  history | tail -n 3

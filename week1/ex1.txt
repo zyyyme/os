@@ -1,0 +1,10 @@
+gcc
+gcc-ar
+gcc-nm
+gcc-ranlib
+winegcc
+x86_64-pc-linux-gnu-gcc
+x86_64-pc-linux-gnu-gcc-10.1.0
+x86_64-pc-linux-gnu-gcc-ar
+x86_64-pc-linux-gnu-gcc-nm
+x86_64-pc-linux-gnu-gcc-ranlib
