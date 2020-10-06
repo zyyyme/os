@@ -1,0 +1,3 @@
+Physical adress refers to a real place in real memory that exists physically,
+virtual adress does not refer to a physical location in memory, so we can have more 
+virtual adresses than we have physically.
