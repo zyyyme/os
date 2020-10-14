@@ -1,0 +1,5 @@
+Input like 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10
+with 10 page frames will result in Hit: 19; Miss: 10; Hit/miss: 1.900000%, since we are filling all page frames from the start
+
+Input like 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 4 5 6 7 8 9 10 11 12
+with 10 page frames will result in Hit: 9; Miss: 14; Hit/miss: 0.642857%, since there are less frames then numbers.
