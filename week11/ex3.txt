@@ -1,0 +1,12 @@
+Program 1 outputs:
+Hello
+Hello
+
+Program 2 outputs:
+Hello
+
+
+
+
+UNIX terminals use line buffering by default. Buffer gets copied using fork,
+so first program will get two buffers with "Hello" inside, while second will have one "Hello" and 3 "\n" due to line buffering.
