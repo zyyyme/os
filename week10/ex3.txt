@@ -1,0 +1,3 @@
+-rw-rw-rw- 1 zyyme zyyme 0 окт 20 13:19 _ex3.txt
+-rwxrw-rwx 1 zyyme zyyme 0 окт 20 13:19 _ex3.txt
+-rwxrwxrwx 1 zyyme zyyme 0 окт 20 13:19 _ex3.txt
